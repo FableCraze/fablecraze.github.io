@@ -3,7 +3,7 @@
     "name": "Deadly Boss Mods",
     "version": "1.0.0",
     "description": "Addon de alertas de combate que exibe avisos visuais e sonoros sobre habilidades de chefes",
-    "url": "https://valberlimabr.github.io/addons/DBM335.zip",
+    "url": "https://fablecraze.github.io/addons/DBM335.zip",
     "folders": [
       "DBM-AQ20",
       "DBM-AQ40",
@@ -47,7 +47,7 @@
     "name": "Recount",
     "version": "1.0.0",
     "description": "Addon de medição de desempenho que mostra estatísticas detalhadas de DPS, cura, mortes e outros.",
-    "url": "https://valberlimabr.github.io/addons/Recount335.zip",
+    "url": "https://fablecraze.github.io/addons/Recount335.zip",
     "folders": [
       "Recount"
     ]
@@ -56,7 +56,7 @@
     "name": "AtlasLoot",
     "version": "1.0.0",
     "description": "Addon de interface que permite que as tabelas de loot dos chefes sejam visualizadas dentro no jogo.",
-    "url": "https://valberlimabr.github.io/addons/Atlasloot335.zip",
+    "url": "https://fablecraze.github.io/addons/Atlasloot335.zip",
     "folders": [
       "AtlasLoot",
       "AtlasLoot_BurningCrusade",
@@ -71,7 +71,7 @@
     "name": "Addon Control Panel",
     "version": "1.0.0",
     "description": "Permite que você gerencie seus addons no jogo sem a necessidade de deslogar do personagem.",
-    "url": "https://valberlimabr.github.io/addons/ACP335.zip",
+    "url": "https://fablecraze.github.io/addons/ACP335.zip",
     "folders": [
       "ACP"
     ]
@@ -80,7 +80,7 @@
     "name": "Quest Tradutor",
     "version": "1.0.0",
     "description": "Addon que traduz as missões do jogo para português.",
-    "url": "https://valberlimabr.github.io/addons/QuestTradutor335.zip",
+    "url": "https://fablecraze.github.io/addons/QuestTradutor335.zip",
     "folders": [
       "QuestTradutor"
     ]
@@ -89,7 +89,7 @@
     "name": "Gear Score",
     "version": "1.0.0",
     "description": "Mostra a qualidade dos itens em forma de números.",
-    "url": "https://valberlimabr.github.io/addons/GS335.zip",
+    "url": "https://fablecraze.github.io/addons/GS335.zip",
     "folders": [
       "GearScore",
       "BonusScanner"
@@ -99,7 +99,7 @@
     "name": "Bagnon",
     "version": "1.0.0",
     "description": "Addon para melhoria na exibição das bags, juntando todas como se fosse apenas uma.",
-    "url": "https://valberlimabr.github.io/addons/Bagnon335.zip",
+    "url": "https://fablecraze.github.io/addons/Bagnon335.zip",
     "folders": [
       "Bagnon",
       "Bagnon_Config",
@@ -112,7 +112,7 @@
     "name": "Pally Power",
     "version": "1.0.0",
     "description": "Mostra aos paladinos quais buffs usar para que eles não se sobreponham.",
-    "url": "https://valberlimabr.github.io/addons/PallyPower.zip",
+    "url": "https://fablecraze.github.io/addons/PallyPower.zip",
     "folders": [
       "PallyPower"
     ]
@@ -121,7 +121,7 @@
     "name": "HealBot",
     "version": "1.0.0",
     "description": "Um Addon de grande suporte para Healers, pois pode fazer inúmeras coisas úteis.",
-    "url": "https://valberlimabr.github.io/addons/HealBot-3.3.5.zip",
+    "url": "https://fablecraze.github.io/addons/HealBot-3.3.5.zip",
     "folders": [
       "HealBot",
       "TitanHealBot"
@@ -131,7 +131,7 @@
     "name": "NeedToKnow",
     "version": "1.0.0",
     "description": "Permite monitorar Buffs, Debuffs, Cooldowns e Totens específicos como barras de tempo que sempre aparecem em um local consistente na tela.",
-    "url": "https://valberlimabr.github.io/addons/NeedToKnow-3.3.5.zip",
+    "url": "https://fablecraze.github.io/addons/NeedToKnow-3.3.5.zip",
     "folders": [
       "NeedToKnow"
     ]
@@ -140,7 +140,7 @@
     "name": "Skada DamageMeter",
     "version": "1.0.0",
     "description": "Um medidor de dano modular com vários modos de visualização, lutas segmentadas e janelas personalizáveis.",
-    "url": "https://valberlimabr.github.io/addons/Skada-3.3.5.zip",
+    "url": "https://fablecraze.github.io/addons/Skada-3.3.5.zip",
     "folders": [
       "Skada",
       "SkadaAbsorbs",
