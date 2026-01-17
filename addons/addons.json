@@ -109,6 +109,15 @@
     ]
   },
   {
+    "name": "Grid",
+    "version": "1.0.0",
+    "description": "Um addon para exibir a estrutura de unidades em grupos/raids. Uma grade compacta de unidades permite selecionar rapidamente um membro do grupo, mantendo ao mesmo tempo uma boa visão geral de todo o grupo.",
+    "url": "https://github.com/FableCraze/patch-manager/releases/download/ADDONS/Grid-r1318.zip",
+    "folders": [
+      "Grid"
+    ]
+  },
+  {
     "name": "Pally Power",
     "version": "1.0.0",
     "description": "Mostra aos paladinos quais buffs usar para que eles não se sobreponham.",
