@@ -3,7 +3,7 @@
     "name": "Vanilla Dungeon Maps",
     "version": "1.0.0",
     "description": "Adiciona mapas de dungeons vanilla.",
-    "url": "https://github.com/valberlimabr/frostbyte-addons/releases/download/PATCH/Dungeon.MAPS.zip",
+    "url": "https://github.com/FableCraze/patch-manager/releases/download/PATCH/Dungeon.MAPS.zip",
     "files": [
       "patch-M.MPQ"
     ]
@@ -12,23 +12,9 @@
     "name": "Dublagem PT-BR",
     "version": "1.0.0",
     "description": "Adiciona dublagem em português brasileiro.",
-    "url": "https://github.com/valberlimabr/frostbyte-addons/releases/download/PATCH/Dublagem.PTBR.335.zip",
+    "url": "https://github.com/FableCraze/patch-manager/releases/download/PATCH/Dublagem.PTBR.335.zip",
     "files": [
       "patch-6.MPQ"
-    ]
-  },
-  {
-    "name": "Patches do Lobby",
-    "version": "1.0.0",
-    "description": "Adiciona patches do lobby.",
-    "url": ["https://github.com/valberlimabr/frostbyte-addons/releases/download/Test/Patch-I.part1.rar",
-        "https://github.com/valberlimabr/frostbyte-addons/releases/download/Test/Patch-I.part2.rar",
-        "https://github.com/valberlimabr/frostbyte-addons/releases/download/Test/Patch-I.part3.rar",
-        "https://github.com/valberlimabr/frostbyte-addons/releases/download/Test/Patch-I.part4.rar",
-        "https://github.com/valberlimabr/frostbyte-addons/releases/download/Test/Patch-I.part5.rar",
-        "https://github.com/valberlimabr/frostbyte-addons/releases/download/Test/Patch-I.part6.rar"],
-    "files": [
-      "patch-8.MPQ"
     ]
   }
 ]
