@@ -305,8 +305,8 @@ const isElectron = (function() {
     document.getElementById('currentPlayer').textContent = `🎮 ${players[currentPlayerIndex]}`;
     document.getElementById('deckInfo').innerHTML = `🃏 ${deck.length + 1} | ${isRandomMode ? '🎲 Aleatório' : '📋 Sequencial'}`;
     
-    document.getElementById('swipeHint').classList.remove('hidden');
-    document.getElementById('challengeActions').classList.add('hidden');
+    document.getElementById('swipeHint').classList.remove('hidden2');
+    document.getElementById('challengeActions').classList.add('hidden2');
     
     renderScores();
     initSwipe();
@@ -396,8 +396,8 @@ const isElectron = (function() {
       document.getElementById('completeBtn').classList.remove('selected');
       document.getElementById('drinkBtn').classList.remove('selected');
       
-      document.getElementById('swipeHint').classList.add('hidden');
-      document.getElementById('challengeActions').classList.remove('hidden');
+      document.getElementById('swipeHint').classList.add('hidden2');
+      document.getElementById('challengeActions').classList.remove('hidden2');
     }, 300);
   }
   
@@ -458,7 +458,7 @@ const isElectron = (function() {
   
   
   function animateCardOut(direction) {
-    document.getElementById('challengeActions').classList.add('hidden');
+    document.getElementById('challengeActions').classList.add('hidden2');
     const cardEl = document.getElementById('card');
     cardEl.style.transition = 'transform 0.5s ease, opacity 0.5s ease';
     cardEl.style.transform = `translateX(${direction === 'right' ? 400 : -400}px) rotate(${direction === 'right' ? 30 : -30}deg)`;
