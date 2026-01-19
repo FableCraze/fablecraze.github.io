@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GoPuke</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+  <div class="players-setup" id="playersSetup">
+    <h1>🍻 GoPuke</h1>
+    <div class="player-select">
+      Jogadores: <select id="numPlayers">
+        <option value="2" selected>2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+      </select>
+    </div>
+    <div class="deck-select">
+      Baralho: <select id="deckSelect">
+        <option value="baralho1.json">Jogo clássico</option>
+        <option value="baralho2.json">Tá quente aqui!</option>
+      </select>
+    </div>
+    <div class="random-select">
+      Ordem: <select id="randomMode">
+        <option value="false">Sequencial</option>
+        <option value="true" selected>Aleatória</option>
+      </select>
+    </div>
+    <div class="victory-select">
+      Vitória em: <select id="victoryPoints">
+        <option value="30">30 pts</option>
+        <option value="50" selected>50 pts</option>
+        <option value="75">75 pts</option>
+        <option value="100">100 pts</option>
+      </select>
+    </div>
+    <button id="startGame">Iniciar Jogo</button>
+  </div>
+
+  <div class="game-screen hidden" id="gameScreen">
+    <div class="header">
+      <div class="player-info" id="currentPlayer"></div>
+      <div class="deck-info" id="deckInfo"></div>
+    </div>
+    
+    <div class="card-container" id="cardContainer">
+      <div class="card card-back" id="card">
+        <div class="card-back-content">🎴<br>ARRASTE</div>
+        <div class="card-front-content hidden"></div>
+      </div>
+    </div>
+    
+    <div class="swipe-hint" id="swipeHint">👆 Arraste a carta para revelar</div>
+    
+    <!-- MOVIDO: Checkboxes discretos ACIMA dos scores -->
+    <div class="action-bar hidden" id="challengeActions">
+        <div class="toggle-buttons">
+            <button class="toggle-btn" id="completeBtn">
+              <span class="icon">✅</span>
+              CUMPRIR
+              <span class="points">+<span id="completePoints">15</span></span>
+            </button>
+            <button class="toggle-btn" id="drinkBtn">
+              <span class="icon">🍺</span>
+              BEBER
+              <span class="shots"><span id="drinkShots">2</span></span>
+            </button>
+          </div>
+        
+      <div class="done-row">
+        <button id="challengeDone">FEITO</button>
+      </div>
+    </div>
+
+    <!-- META + SCORES (barra inferior) -->
+    <div class="scores-container">
+      <div class="scores" id="scores"></div>
+    </div>
+    
+    <div class="winner hidden" id="winner">
+      <div id="winnerText"></div>
+      <button id="restartGame">Jogar Novamente</button>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
