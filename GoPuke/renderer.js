@@ -80,97 +80,14 @@ const isElectron = (function() {
       {text: 'Imite alguém da sala', points: 20, shots: 2}
     ],
     'baralho2.json': [
-      {"text": "Deixe alguém beijar suavemente o seu pescoço por 10s", "points": 3, "shots": 3},
-      {"text": "Deixe um jogador passar gelo na sua barriga", "points": 2, "shots": 2},
-      {"text": "Deixe outra pessoa massagear seus ombros por 30s", "points": 2, "shots": 2},
-      {"text": "Deixe alguém sussurrar algo picante no seu ouvido", "points": 2, "shots": 2},
-      {"text": "Deixe uma pessoa te vendar e acariciar o rosto por 15s", "points": 2, "shots": 2},
-      {"text": "Deixe alguém te dar 3 tapinhas leves na bunda", "points": 3, "shots": 3},
-      {"text": "Deixe outro jogador lamber o lóbulo da sua orelha", "points": 3, "shots": 3},
-      {"text": "Deixe o grupo escolher quem pode te fazer cócegas nas costelas", "points": 1, "shots": 1},
-      {"text": "Deixe alguém encostar os lábios na sua nuca por 10s", "points": 2, "shots": 2},
-      {"text": "Deixe uma pessoa massagear suas coxas lentamente", "points": 3, "shots": 3},
-      {"text": "Deixe alguém beijar sua palma da mão", "points": 1, "shots": 1},
-      {"text": "Deixe uma pessoa lamber mel do seu pescoço", "points": 3, "shots": 3},
-      {"text": "Deixe alguém morder seu lábio inferior de leve", "points": 3, "shots": 3},
-      {"text": "Deixe o jogador da esquerda tocar sua barriga por 10s", "points": 2, "shots": 2},
-      {"text": "Deixe uma pessoa te dar uma massagem nos pés", "points": 2, "shots": 2},
-      {"text": "Deixe alguém erguer sua camisa até o peito", "points": 4, "shots": 4},
-      {"text": "Deixe alguém beijar o seu pulso bem devagar", "points": 2, "shots": 2},
-      {"text": "Deixe o grupo decidir quem pode dar um tapa leve na sua coxa", "points": 2, "shots": 2},
-      {"text": "Deixe um jogador lamber seu pescoço por 10s", "points": 3, "shots": 3},
-      {"text": "Escolha alguém para sentar no seu colo por 3 rodadas", "points": 3, "shots": 3},
-      {"text": "Deixe outra pessoa beijar sua barriga por 10s", "points": 3, "shots": 3},
-      {"text": "Deixe alguém tocar seus peitos ou peito por cima da roupa", "points": 4, "shots": 4},
-      {"text": "Deixe outro jogador passar os dedos pelo seu cabelo", "points": 2, "shots": 2},
-      {"text": "Deixe alguém te amarrar as mãos por 1 minuto", "points": 3, "shots": 3},
-      {"text": "Deixe uma pessoa te segurar pela cintura por 10s", "points": 2, "shots": 2},
-      {"text": "Deixe um jogador tocar sua nuca com beijos suaves", "points": 2, "shots": 2},
-      {"text": "Deixe alguém beijar seu ombro lentamente", "points": 2, "shots": 2},
-      {"text": "Deixe outro jogador lamber o seu dedo de forma provocante", "points": 2, "shots": 2},
-      {"text": "Deixe alguém te dar um selinho de olhos fechados", "points": 2, "shots": 2},
-      {"text": "Deixe o grupo escolher uma parte do corpo para alguém beijar", "points": 3, "shots": 3},
-      {"text": "Deixe outra pessoa tirar uma peça pequena de roupa sua", "points": 4, "shots": 4},
-      {"text": "Deixe alguém colocar chantilly no seu pescoço e lamber", "points": 4, "shots": 4},
-      {"text": "Deixe um jogador massagear sua nuca e costas", "points": 2, "shots": 2},
-      {"text": "Deixe o jogador da esquerda sussurrar uma fantasia no seu ouvido", "points": 2, "shots": 2},
-      {"text": "Deixe outra pessoa te dar um beijo no peito por cima da roupa", "points": 4, "shots": 4},
-      {"text": "Deixe alguém segurar sua mão e beijar o dorso", "points": 1, "shots": 1},
-      {"text": "Deixe um jogador beijar sua testa", "points": 1, "shots": 1},
-      {"text": "Deixe alguém passar gelo no seu pescoço", "points": 2, "shots": 2},
-      {"text": "Deixe outra pessoa dar leves mordidinhas na sua orelha", "points": 3, "shots": 3},
-      {"text": "Deixe o grupo escolher quem segura sua cintura por 30s", "points": 2, "shots": 2},
-      {"text": "Deixe alguém massagear sua perna enquanto você fecha os olhos", "points": 3, "shots": 3},
-      {"text": "Deixe outra pessoa beijar sua bochecha com intenção", "points": 1, "shots": 1},
-      {"text": "Deixe alguém te fazer cócegas por 15s", "points": 1, "shots": 1},
-      {"text": "Deixe um jogador encostar a testa na sua e ficar 10s assim", "points": 2, "shots": 2},
-      {"text": "Deixe uma pessoa cheirar o seu pescoço lentamente", "points": 3, "shots": 3},
-      {"text": "Deixe alguém dar uma mordidinha leve no seu ombro", "points": 2, "shots": 2},
-      {"text": "Deixe outra pessoa beijar sua clavícula", "points": 3, "shots": 3},
-      {"text": "Deixe alguém brincar com seus dedos das mãos", "points": 1, "shots": 1},
-      {"text": "Deixe alguém olhar nos seus olhos por 15s sem falar", "points": 1, "shots": 1},
-      {"text": "Dê um beijo lento no pescoço de alguém", "points": 3, "shots": 3},
-      {"text": "Massageie as costas de quem está ao seu lado", "points": 2, "shots": 2},
-      {"text": "Beije o pulso de outra pessoa bem devagar", "points": 2, "shots": 2},
-      {"text": "Sussurre algo provocante para o jogador da esquerda", "points": 2, "shots": 2},
-      {"text": "Dance no colo de alguém por 15s", "points": 3, "shots": 3},
-      {"text": "Toque a nuca de um jogador com beijos leves", "points": 2, "shots": 2},
-      {"text": "Passe a língua lentamente no dedo de alguém", "points": 2, "shots": 2},
-      {"text": "Beije a barriga de uma pessoa do grupo", "points": 3, "shots": 3},
-      {"text": "Mordisque o lábio de alguém que você escolher", "points": 2, "shots": 2},
-      {"text": "Faça uma massagem nos pés de outro jogador", "points": 2, "shots": 2},
-      {"text": "Lamba o pescoço de quem perder a próxima rodada", "points": 3, "shots": 3},
-      {"text": "Beije o ombro de outro jogador por 5s", "points": 2, "shots": 2},
-      {"text": "Dê um selinho em um jogador", "points": 2, "shots": 2},
-      {"text": "Dê uma mordidinha leve na orelha de alguém", "points": 2, "shots": 2},
-      {"text": "Sente no colo de alguém e encoste testa com testa por 10s", "points": 3, "shots": 3},
-      {"text": "Passe seus dedos no braço de alguém de forma sedutora", "points": 2, "shots": 2},
-      {"text": "Beije a palma da mão de outra pessoa", "points": 1, "shots": 1},
-      {"text": "Dê três beijos rápidos na bochecha de um jogador", "points": 1, "shots": 1},
-      {"text": "Beije o dorso da mão de alguém com paixão", "points": 1, "shots": 1},
-      {"text": "Dê um tapa leve na bunda de alguém", "points": 3, "shots": 3},
-      {"text": "Imite um gemido suave na orelha de alguém", "points": 2, "shots": 2},
-      {"text": "Acaricie o cabelo de um jogador por 20s", "points": 1, "shots": 1},
-      {"text": "Deixe alguém beijar seu peito por baixo da roupa por 10s", "points": 5, "shots": 5},
-      {"text": "Diga a um jogador algo que faria com ele(a)", "points": 2, "shots": 2},
-      {"text": "Faça um lap dance breve em um jogador", "points": 3, "shots": 3},
-      {"text": "Dê um abraço demorado em alguém até o silêncio ficar estranho", "points": 1, "shots": 1},
-      {"text": "Toque a ponta do nariz de alguém com um beijo leve", "points": 1, "shots": 1},
-      {"text": "Ofereça sua mão para alguém beijar", "points": 1, "shots": 1},
-      {"text": "Beije o pescoço de um jogador sem falar nada", "points": 3, "shots": 3},
-      {"text": "Dê uma piscada e um sorriso provocante para alguém", "points": 1, "shots": 1},
-      {"text": "Toque o rosto de outra pessoa com as pontas dos dedos", "points": 1, "shots": 1},
-      {"text": "Encoste o nariz no pescoço de alguém e respire fundo", "points": 2, "shots": 2},
-      {"text": "Diga algo realmente bonito para alguém olhando nos olhos", "points": 1, "shots": 1},
-      {"text": "Faça cócegas em outra pessoa até ela rir", "points": 1, "shots": 1},
-      {"text": "Sente no colo de alguém (de frente) sorria sem falar nada por 5s", "points": 3, "shots": 3},
-      {"text": "Dance lentamente encarando alguém", "points": 2, "shots": 2},
-      {"text": "Beije o queixo de uma pessoa", "points": 1, "shots": 1},
-      {"text": "Apoie a cabeça no ombro de alguém por 10s", "points": 1, "shots": 1},
-      {"text": "Coloque seu braço em volta da cintura de outra pessoa", "points": 2, "shots": 2},
-      {"text": "Sussurre uma palavra proibida no ouvido de alguém", "points": 2, "shots": 2},
-      {"text": "Ofereça seu pescoço para alguém aproximar o rosto", "points": 3, "shots": 3}
-    ]  
+      {text: 'Verdade ou desafio para o jogador à direita', points: 15, shots: 1},
+      {text: 'Conte um segredo embaraçoso', points: 20, shots: 2},
+      {text: 'Beije a mão de alguém', points: 15, shots: 1},
+      {text: 'Faça uma declaração romântica improvisada', points: 20, shots: 2},
+      {text: 'Dance sensualmente por 15 segundos', points: 25, shots: 2},
+      {text: 'Conte sua pior conquista', points: 20, shots: 2},
+      {text: 'Dê um elogio sincero para cada jogador', points: 25, shots: 1}
+    ]
   };
   
   function startGame() {
@@ -305,8 +222,8 @@ const isElectron = (function() {
     document.getElementById('currentPlayer').textContent = `🎮 ${players[currentPlayerIndex]}`;
     document.getElementById('deckInfo').innerHTML = `🃏 ${deck.length + 1} | ${isRandomMode ? '🎲 Aleatório' : '📋 Sequencial'}`;
     
-    document.getElementById('swipeHint').classList.remove('hidden');
-    document.getElementById('challengeActions').classList.add('hidden');
+    document.getElementById('swipeHint').classList.remove('hidden2');
+    document.getElementById('challengeActions').classList.add('hidden2');
     
     renderScores();
     initSwipe();
@@ -396,8 +313,8 @@ const isElectron = (function() {
       document.getElementById('completeBtn').classList.remove('selected');
       document.getElementById('drinkBtn').classList.remove('selected');
       
-      document.getElementById('swipeHint').classList.add('hidden');
-      document.getElementById('challengeActions').classList.remove('hidden');
+      document.getElementById('swipeHint').classList.add('hidden2');
+      document.getElementById('challengeActions').classList.remove('hidden2');
     }, 300);
   }
   
@@ -458,7 +375,7 @@ const isElectron = (function() {
   
   
   function animateCardOut(direction) {
-    document.getElementById('challengeActions').classList.add('hidden');
+    document.getElementById('challengeActions').classList.add('hidden2');
     const cardEl = document.getElementById('card');
     cardEl.style.transition = 'transform 0.5s ease, opacity 0.5s ease';
     cardEl.style.transform = `translateX(${direction === 'right' ? 400 : -400}px) rotate(${direction === 'right' ? 30 : -30}deg)`;
