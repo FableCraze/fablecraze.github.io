@@ -314,7 +314,6 @@ select, button {
     display: flex;
     gap: 0.8em;
     margin-bottom: 0.8em;
-    border: 1px solid red;
   }
   
   .toggle-btn {
