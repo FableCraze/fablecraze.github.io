@@ -48,6 +48,10 @@
     "version": "1.0.0",
     "description": "Addon de medição de desempenho que mostra estatísticas detalhadas de DPS, cura, mortes e outros.",
     "url": "https://fablecraze.github.io/addons/Recount335.zip",
+    "images": [
+    "https://i.imgur.com/T5aD06l.png",
+    "https://i.imgur.com/sSSGClx.png"
+],
     "folders": [
       "Recount"
     ]
@@ -57,6 +61,9 @@
     "version": "1.0.0",
     "description": "Addon de interface que permite que as tabelas de loot dos chefes sejam visualizadas dentro no jogo.",
     "url": "https://fablecraze.github.io/addons/Atlasloot335.zip",
+    "images": [
+    "https://i.imgur.com/lHEPyqA.png"
+],
     "folders": [
       "AtlasLoot",
       "AtlasLoot_BurningCrusade",
