@@ -113,6 +113,10 @@
     "version": "1.0.0",
     "description": "Um addon para exibir a estrutura de unidades em grupos/raids. Uma grade compacta de unidades permite selecionar rapidamente um membro do grupo, mantendo ao mesmo tempo uma boa visão geral de todo o grupo.",
     "url": "https://github.com/FableCraze/patch-manager/releases/download/ADDONS/Grid-r1318.zip",
+    "images": [
+    "https://i.imgur.com/p3LRrS4.png",
+    "https://i.imgur.com/sbqVCFu.png"
+],
     "folders": [
       "Grid"
     ]
