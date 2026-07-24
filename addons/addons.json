@@ -1,5 +1,56 @@
 [
   {
+    "name": "Auctionator",
+    "version": "1.0.0",
+    "description": "Addon para leilões.",
+    "url": "https://fablecraze.github.io/addons/Auctionator.zip",
+    "images": [
+      "https://i.imgur.com/AGefGtU.png"
+    ],
+    "folders": [
+      "Auctionator"
+    ]
+  },
+  {
+    "name": "Bartender4",
+    "version": "1.0.0",
+    "description": "Addon para modificar as barras de ações do jogo.",
+    "url": "https://fablecraze.github.io/addons/Bartender4.zip",
+    "images": [
+      "https://i.imgur.com/3Od20DD.png"
+    ],
+    "folders": [
+      "Bartender4"
+    ]
+  },
+  {
+    "name": "EventAlert",
+    "version": "1.0.0",
+    "description": "Addon para alertas de eventos de combate.",
+    "url": "https://fablecraze.github.io/addons/EventAlert.zip",
+    "images": [
+      "https://i.imgur.com/amLS66G.png"
+    ],
+    "folders": [
+      "EventAlert"
+    ]
+  },
+  {
+    "name": "WeakAuras",
+    "version": "1.0.0",
+    "description": "Addon para criar alertas visuais e sonoros personalizados para rastrear buffs, debuffs, cooldowns e muito mais.",
+    "url": "https://fablecraze.github.io/addons/WeakAuras.zip",
+    "images": [
+      "https://i.imgur.com/0rXQOpt.png"
+    ],
+    "folders": [
+      "WeakAuras",
+      "WeakAurasArchive",
+      "WeakAurasModelPaths",
+      "WeakAurasOptions"
+    ]
+  },
+  {
     "name": "Deadly Boss Mods",
     "version": "1.0.0",
     "description": "Addon de alertas de combate que exibe avisos visuais e sonoros sobre habilidades de chefes",
@@ -49,9 +100,9 @@
     "description": "Addon de medição de desempenho que mostra estatísticas detalhadas de DPS, cura, mortes e outros.",
     "url": "https://fablecraze.github.io/addons/Recount335.zip",
     "images": [
-    "https://i.imgur.com/T5aD06l.png",
-    "https://i.imgur.com/sSSGClx.png"
-],
+      "https://i.imgur.com/T5aD06l.png",
+      "https://i.imgur.com/sSSGClx.png"
+    ],
     "folders": [
       "Recount"
     ]
@@ -62,8 +113,8 @@
     "description": "Addon de interface que permite que as tabelas de loot dos chefes sejam visualizadas dentro no jogo.",
     "url": "https://fablecraze.github.io/addons/Atlasloot335.zip",
     "images": [
-    "https://i.imgur.com/lHEPyqA.png"
-],
+      "https://i.imgur.com/lHEPyqA.png"
+    ],
     "folders": [
       "AtlasLoot",
       "AtlasLoot_BurningCrusade",
@@ -121,9 +172,9 @@
     "description": "Um addon para exibir a estrutura de unidades em grupos/raids. Uma grade compacta de unidades permite selecionar rapidamente um membro do grupo, mantendo ao mesmo tempo uma boa visão geral de todo o grupo.",
     "url": "https://github.com/FableCraze/patch-manager/releases/download/ADDONS/Grid-r1318.zip",
     "images": [
-    "https://i.imgur.com/p3LRrS4.png",
-    "https://i.imgur.com/sbqVCFu.png"
-],
+      "https://i.imgur.com/p3LRrS4.png",
+      "https://i.imgur.com/sbqVCFu.png"
+    ],
     "folders": [
       "Grid"
     ]
