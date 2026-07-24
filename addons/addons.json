@@ -9,7 +9,8 @@
     ],
     "folders": [
       "Auctionator"
-    ]
+    ],
+    "category": "Economia"
   },
   {
     "name": "Bartender4",
@@ -21,7 +22,8 @@
     ],
     "folders": [
       "Bartender4"
-    ]
+    ],
+    "category": "Interface"
   },
   {
     "name": "EventAlert",
@@ -33,7 +35,8 @@
     ],
     "folders": [
       "EventAlert"
-    ]
+    ],
+    "category": "Combate"
   },
   {
     "name": "WeakAuras",
@@ -48,7 +51,8 @@
       "WeakAurasArchive",
       "WeakAurasModelPaths",
       "WeakAurasOptions"
-    ]
+    ],
+    "category": "Combate"
   },
   {
     "name": "Deadly Boss Mods",
@@ -92,7 +96,8 @@
       "DBM-WorldEvents",
       "DBM-ZG",
       "DBM-ZulAman"
-    ]
+    ],
+    "category": "Raids e Masmorras"
   },
   {
     "name": "Recount",
@@ -105,7 +110,8 @@
     ],
     "folders": [
       "Recount"
-    ]
+    ],
+    "category": "Combate"
   },
   {
     "name": "AtlasLoot",
@@ -123,7 +129,8 @@
       "AtlasLoot_WorldEvents",
       "AtlasLoot_WrathoftheLichKing",
       "AtlasLootFu"
-    ]
+    ],
+    "category": "Itens e Loot"
   },
   {
     "name": "Addon Control Panel",
@@ -132,7 +139,8 @@
     "url": "https://fablecraze.github.io/addons/ACP335.zip",
     "folders": [
       "ACP"
-    ]
+    ],
+    "category": "Gerenciamento"
   },
   {
     "name": "Quest Tradutor",
@@ -141,7 +149,8 @@
     "url": "https://fablecraze.github.io/addons/QuestTradutor335.zip",
     "folders": [
       "QuestTradutor"
-    ]
+    ],
+    "category": "Missões"
   },
   {
     "name": "Gear Score",
@@ -151,7 +160,8 @@
     "folders": [
       "GearScore",
       "BonusScanner"
-    ]
+    ],
+    "category": "Itens e Loot"
   },
   {
     "name": "Bagnon",
@@ -164,7 +174,8 @@
       "Bagnon_Forever",
       "Bagnon_GuildBank",
       "Bagnon_Tooltips"
-    ]
+    ],
+    "category": "Interface"
   },
   {
     "name": "Grid",
@@ -177,7 +188,8 @@
     ],
     "folders": [
       "Grid"
-    ]
+    ],
+    "category": "Raids e Masmorras"
   },
   {
     "name": "Pally Power",
@@ -186,7 +198,8 @@
     "url": "https://fablecraze.github.io/addons/PallyPower.zip",
     "folders": [
       "PallyPower"
-    ]
+    ],
+    "category": "Classes"
   },
   {
     "name": "HealBot",
@@ -196,7 +209,8 @@
     "folders": [
       "HealBot",
       "TitanHealBot"
-    ]
+    ],
+    "category": "Raids e Masmorras"
   },
   {
     "name": "NeedToKnow",
@@ -205,7 +219,8 @@
     "url": "https://fablecraze.github.io/addons/NeedToKnow-3.3.5.zip",
     "folders": [
       "NeedToKnow"
-    ]
+    ],
+    "category": "Combate"
   },
   {
     "name": "Skada DamageMeter",
@@ -226,6 +241,7 @@
       "SkadaHealing",
       "SkadaPower",
       "SkadaThreat"
-    ]
+    ],
+    "category": "Combate"
   }
 ]
